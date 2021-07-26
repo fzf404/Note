@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[94],{721:function(n,e){n.exports="\x3c!-- \ntitle: 13-NavieUI\nsort: \n--\x3e \n\n> [官方文档](https://www.naiveui.com/zh-CN/os-theme/docs/introduction)\n\n### 入门\n\n```bash\nyarn create vite\nyarn add naive-ui vfonts\nyarn dev\n```\n\n"}}]);
