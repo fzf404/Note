@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[376],{1003:function(n,w){n.exports='\x3c!-- \ntitle: Curl\nsort: \n--\x3e \n\n> 命令行网络工具\n\n```bash\n# 带响应头的数据\ncurl -i "http://www.baidu.com/"\n```\n\n'}}]);
